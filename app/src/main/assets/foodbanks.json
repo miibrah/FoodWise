@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Greater Vancouver Food Bank Society",
+    "address": "8345 Winston St, Burnaby, British Columbia, V5A 2H3",
+    "phone": "604-876-3601",
+    "lat": 49.2497769,
+    "lang": -122.9248886
+  },
+  {
+    "name": "Richmond Food Bank Society",
+    "address": "5800 Cedarbridge Way, Richmond, British Columbia, V6X 2A",
+    "phone": "604-271-5609",
+    "lat": 49.1729905,
+    "lang": -123.1441894
+  },
+  {
+    "name": "SHARE Food Bank",
+    "address": "2615 Clarke Dr., Port Moody, V3H 1Z4 BRITISH COLUMBIA",
+    "phone": "604-931-2451",
+    "lat": 49.2774338,
+    "lang": -122.8557264
+  },
+  {
+    "name": "South Delta Food Bank",
+    "address": "5545 Ladner Trunk Rd, Ladner, V4K 1X1 BRITISH COLUMBIA Canada",
+    "phone": "604-946-1967",
+    "lat": 49.0907063,
+    "lang": -123.0716827
+  },
+  {
+    "name": "Surrey Food Bank",
+    "address": "13478 78 Ave, Surrey, British Columbia, V3W 8J6",
+    "phone": "604-581-5443",
+    "lat": 49.1442159,
+    "lang": -122.8518106
+  },
+  {
+    "name": "Salvation Army Harvest of Hope Food Bank",
+    "address": "682 Gibsons Way, Gibsons, V0N 1V0 BRITISH COLUMBIA Canada",
+    "phone": "604-886-3665",
+    "lat": 49.4074898,
+    "lang": -123.5094206
+  },
+  {
+    "name": "Friends in Need Food Bank",
+    "address": "22726 Dewdney Trunk Road, Maple Ridge, V2X 3K3 BRITISH COLUMBIA Canada",
+    "phone": "604-466-3663",
+    "lat": 49.219307,
+    "lang": -122.5951347
+  },
+  {
+    "name": "Sources White Rock/South Surrey",
+    "address": "2343 156 St, Surrey, British Columbia, V4A 4V5",
+    "phone": "604-531-8168",
+    "lat": 49.0445659,
+    "lang": -122.7927847
+  },
+  {
+    "name": "Sources Langley",
+    "address": "20445 62 Ave, Langley, Langley Twp, British Columbia, V2Y",
+    "phone": "604-532-5290",
+    "lat": 49.1159089,
+    "lang": -122.6583964
+  }
+]

@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "757708953803",
+    "firebase_url": "https://foodwise-a59dd-default-rtdb.firebaseio.com",
+    "project_id": "foodwise-a59dd",
+    "storage_bucket": "foodwise-a59dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757708953803:android:7f43db7e882616de89634e",
+        "android_client_info": {
+          "package_name": "com.example.addfooditem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757708953803-3qf58ssigcqqm3ebfec2ee32d8s1arjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN4_QlJ2c6vpm116lwq2z5GTnagkh99uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757708953803-3qf58ssigcqqm3ebfec2ee32d8s1arjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757708953803:android:8df72e273e5da0f089634e",
+        "android_client_info": {
+          "package_name": "com.example.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757708953803-3qf58ssigcqqm3ebfec2ee32d8s1arjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN4_QlJ2c6vpm116lwq2z5GTnagkh99uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757708953803-3qf58ssigcqqm3ebfec2ee32d8s1arjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757708953803:android:c3402f01840285e289634e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757708953803-3qf58ssigcqqm3ebfec2ee32d8s1arjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN4_QlJ2c6vpm116lwq2z5GTnagkh99uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757708953803-3qf58ssigcqqm3ebfec2ee32d8s1arjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757708953803:android:15e1a360f9f469b189634e",
+        "android_client_info": {
+          "package_name": "com.example.foodwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757708953803-3qf58ssigcqqm3ebfec2ee32d8s1arjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN4_QlJ2c6vpm116lwq2z5GTnagkh99uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757708953803-3qf58ssigcqqm3ebfec2ee32d8s1arjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

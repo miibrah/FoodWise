@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddFragment">
+
+
+    <!--    <Button-->
+    <!--        android:id="@+id/addByPicBtn"-->
+    <!--        android:layout_width="250sp"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="223dp"-->
+    <!--        android:background="@drawable/rounded_button_blue"-->
+    <!--        android:text="Add with Photo"-->
+    <!--        android:textAllCaps="false"-->
+    <!--        android:textColor="#FFFFFF"-->
+    <!--        android:textSize="20sp"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+    <Button
+        android:id="@+id/addManuallyBTN"
+        android:layout_width="250sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="308dp"
+        android:background="@drawable/rounded_button_blue"
+        android:text="Add with Text"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--    <TextView-->
+    <!--        android:id="@+id/textView8"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginTop="11dp"-->
+    <!--        android:text="(Barcode Scan or Text Extract an image)"-->
+    <!--        app:layout_constraintStart_toStartOf="@+id/addByPicBtn"-->
+    <!--        app:layout_constraintTop_toBottomOf="@+id/addByPicBtn" />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
